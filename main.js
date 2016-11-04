@@ -1,3 +1,3 @@
 function() {
 $('#weather').typeIt({})
-}
+};
