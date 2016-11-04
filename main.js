@@ -1,2 +1,3 @@
 function() {
-$('.weather').typeIt({})
+$('#weather').typeIt({})
+}
